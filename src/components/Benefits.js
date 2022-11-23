@@ -16,7 +16,10 @@ export default function Benefits() {
           </h2>
         </div>
         <div className="relative">
-          <img src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png" />
+          <img
+            src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png"
+            alt=""
+          />
           <video
             muted
             playsInline
